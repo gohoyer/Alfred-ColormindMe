@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>com.gohoyer.colormindme</string>
+	<key>category</key>
+	<string>Internet</string>
+	<key>connections</key>
+	<dict>
+		<key>05BB706B-E82B-441B-9F4C-006588E79773</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>FB7B49EB-9DC8-4CF8-9502-17566C1B97CA</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>59C3A62F-C01C-416F-994F-3AA1A45FF1F6</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>E3227028-A94F-4D95-8411-1E16C2293BD5</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>729EB86E-FD0D-4A1A-8F8C-6C06C61F889A</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>1EE8FF6E-DB34-4AD5-81F2-0E634912A918</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F2B42809-A01D-46E2-8DB9-3D9E181BAAE0</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>480A2828-F18F-4282-A05B-C01DE1E84318</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>54C273FD-8151-4CBA-9770-5BF14B971744</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>54C273FD-8151-4CBA-9770-5BF14B971744</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>05BB706B-E82B-441B-9F4C-006588E79773</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>55FFCDA3-5C68-4B07-B2FF-604F207723DF</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>DC01678F-457A-41A6-ADFA-EBFC55C7AA24</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>917C43D0-F26E-498D-8BC5-1D9635273EC1</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>E3227028-A94F-4D95-8411-1E16C2293BD5</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>7BC053B9-A346-41E9-A463-838A36B15765</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>82DA38CC-5756-43BD-ADBE-1621AA9DC3EE</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>A62CCC36-86D5-4513-B555-93B5097A9583</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>1EE8FF6E-DB34-4AD5-81F2-0E634912A918</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>DC01678F-457A-41A6-ADFA-EBFC55C7AA24</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>7BC053B9-A346-41E9-A463-838A36B15765</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>E3227028-A94F-4D95-8411-1E16C2293BD5</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A62CCC36-86D5-4513-B555-93B5097A9583</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>FB7B49EB-9DC8-4CF8-9502-17566C1B97CA</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>55FFCDA3-5C68-4B07-B2FF-604F207723DF</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>GoHoyer</string>
+	<key>description</key>
+	<string>AI Powered Random Theme Generator</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>Colormind Me</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>path</key>
+				<string>{query}</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.revealfile</string>
+			<key>uid</key>
+			<string>82DA38CC-5756-43BD-ADBE-1621AA9DC3EE</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>#!/bin/bash
+
+export PATH=/usr/local/bin/:/opt/homebrew/bin/:/usr/bin/:$PATH
+
+function rgb2hex(){
+  for var in "$@"
+  do
+    printf '%x' "$var" | awk '{ printf toupper($0) }';
+  done
+  printf '\n'
+}
+
+# Get the random palette from the API
+json=$(curl -s 'http://colormind.io/api/' --data-binary '{"model":"ui"}' || { echo "ERROR: Error while calling the API. Please try again later."; exit 1; } )
+
+# Iterates throught json array and converts to hex codes.
+for i in {0..4}; do
+  # Get the N'th item from array
+  jq_array=$(echo "$json" | jq --arg INDEX "$i" '.result[$INDEX|tonumber]' | sed -e "s/\[//" -e "s/\]//" -e "s/\,//")
+  # Converts to a bash array
+  # shellcheck disable=SC2206
+  bash_array=( $jq_array )
+  # Convert rgb 2 hex color
+  colours[$i]=$(rgb2hex "${bash_array[@]}")
+done
+
+# Non text elements
+for i in {0..7}; do
+  colourScheme[$i]="${colours[$(shuf -i 0-2 -n 1)]}$(rgb2hex "$(shuf -i 100-250 -n 1)")"
+done
+
+# Text elements
+for i in {0..5}; do
+  textColourScheme[$i]="${colours[$(shuf -i 3-4 -n 1)]}$(rgb2hex "$(shuf -i 200-250 -n 1)")"
+done
+
+alfred_theme=$(cat &lt;&lt;EOF
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 4,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#${textColourScheme[0]}",
+        "font" : "System",
+        "color" : "#${textColourScheme[3]}"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#${colourScheme[0]}",
+        "font" : "System",
+        "color" : "#${colourScheme[5]}"
+      },
+      "backgroundSelected" : "#${colourScheme[1]}",
+      "text" : {
+        "size" : 18,
+        "colorSelected" : "#${textColourScheme[1]}",
+        "font" : "System",
+        "color" : "#${textColourScheme[4]}"
+      },
+      "iconPaddingHorizontal" : 4,
+      "roundness" : 0,
+      "paddingVertical" : 4,
+      "iconSize" : 39
+    },
+    "search" : {
+      "backgroundSelected" : "#${colourScheme[2]}",
+      "paddingHorizontal" : 8,
+      "spacing" : 8,
+      "text" : {
+        "size" : 34,
+        "colorSelected" : "#${textColourScheme[2]}",
+        "font" : "System Light",
+        "color" : "#${textColourScheme[2]}"
+      },
+      "background" : "#${colourScheme[3]}",
+      "roundness" : 0,
+      "paddingVertical" : 5
+    },
+    "window" : {
+      "color" : "#${colourScheme[4]}",
+      "paddingHorizontal" : 10,
+      "width" : 587,
+      "borderPadding" : 4,
+      "borderColor" : "#${colourScheme[5]}",
+      "blur" : 0,
+      "roundness" : 16,
+      "paddingVertical" : 8
+    },
+    "credit" : "GoHoyer/Colormind Me Workflow",
+    "separator" : {
+      "color" : "#${colourScheme[6]}",
+      "thickness" : 3
+    },
+    "scrollbar" : {
+      "color" : "#${colourScheme[7]}",
+      "thickness" : 8
+    },
+    "name" : "Colormind Me Random"
+  }
+}
+EOF
+)
+
+echo "$alfred_theme" &gt; "$DST_FOLDER"/random.alfredappearance
+echo "$DST_FOLDER"/random.alfredappearance</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>7BC053B9-A346-41E9-A463-838A36B15765</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>json</key>
+				<string>{
+  "alfredworkflow" : {
+    "variables" : {
+      "DST_FOLDER": "{query}"
+    }
+  }
+}</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.json</string>
+			<key>uid</key>
+			<string>DC01678F-457A-41A6-ADFA-EBFC55C7AA24</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>query=$(cat "$alfred_workflow_data"/destination_folder.txt || echo "")
+
+echo -n $query</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>FB7B49EB-9DC8-4CF8-9502-17566C1B97CA</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>1</integer>
+						<key>matchstring</key>
+						<string></string>
+						<key>outputlabel</key>
+						<string>Generate theme</string>
+						<key>uid</key>
+						<string>917C43D0-F26E-498D-8BC5-1D9635273EC1</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>Define folder</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>55FFCDA3-5C68-4B07-B2FF-604F207723DF</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>anchorfields</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>daterange</key>
+				<integer>0</integer>
+				<key>fields</key>
+				<array>
+					<dict>
+						<key>field</key>
+						<string>kMDItemDisplayName</string>
+						<key>not</key>
+						<false/>
+						<key>split</key>
+						<true/>
+						<key>value</key>
+						<string>{query}</string>
+						<key>words</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>field</key>
+						<string>kMDItemAlternateNames</string>
+						<key>not</key>
+						<false/>
+						<key>split</key>
+						<true/>
+						<key>value</key>
+						<string>{query}</string>
+						<key>words</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>field</key>
+						<string>kMDItemFinderComment</string>
+						<key>not</key>
+						<false/>
+						<key>split</key>
+						<true/>
+						<key>value</key>
+						<string>{query}</string>
+						<key>words</key>
+						<true/>
+					</dict>
+				</array>
+				<key>includesystem</key>
+				<false/>
+				<key>limit</key>
+				<integer>0</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>scopes</key>
+				<array>
+					<string>~</string>
+				</array>
+				<key>sortmode</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string>Inform the destination folder</string>
+				<key>title</key>
+				<string>Destination folder</string>
+				<key>types</key>
+				<array>
+					<string>public.folder</string>
+				</array>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.filefilter</string>
+			<key>uid</key>
+			<string>E3227028-A94F-4D95-8411-1E16C2293BD5</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>fixedorder</key>
+				<true/>
+				<key>items</key>
+				<string>[{"title":"Get Random Theme","arg":"generate","subtitle":"Generate a random theme"},{"imagefile":"ef258460324870298769de840bc595b410c929ee.png","title":"Change","arg":"change","subtitle":"Change theme destination folder"}]</string>
+				<key>keyword</key>
+				<string>cm</string>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>subtext</key>
+				<string>Generate random themes based on colormind A.I. API</string>
+				<key>title</key>
+				<string>Colormind Me</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.listfilter</string>
+			<key>uid</key>
+			<string>480A2828-F18F-4282-A05B-C01DE1E84318</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>adduuid</key>
+				<false/>
+				<key>allowemptyfiles</key>
+				<true/>
+				<key>createintermediatefolders</key>
+				<true/>
+				<key>filename</key>
+				<string>destination_folder.txt</string>
+				<key>filetext</key>
+				<string>{var:DST_FOLDER}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>relativepathmode</key>
+				<integer>0</integer>
+				<key>type</key>
+				<integer>1</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.writefile</string>
+			<key>uid</key>
+			<string>1EE8FF6E-DB34-4AD5-81F2-0E634912A918</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string>{var:init_option}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>generate</string>
+						<key>outputlabel</key>
+						<string>Generate Theme</string>
+						<key>uid</key>
+						<string>59C3A62F-C01C-416F-994F-3AA1A45FF1F6</string>
+					</dict>
+					<dict>
+						<key>inputstring</key>
+						<string>{var:init_option}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>change</string>
+						<key>outputlabel</key>
+						<string>Change Folder</string>
+						<key>uid</key>
+						<string>729EB86E-FD0D-4A1A-8F8C-6C06C61F889A</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>noop</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>05BB706B-E82B-441B-9F4C-006588E79773</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>cm get</string>
+				<key>leftcursor</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.showalfred</string>
+			<key>uid</key>
+			<string>F2B42809-A01D-46E2-8DB9-3D9E181BAAE0</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>json</key>
+				<string>{
+  "alfredworkflow" : {
+    "variables" : {
+      "DST_FOLDER": "{query}"
+    }
+  }
+}</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.json</string>
+			<key>uid</key>
+			<string>A62CCC36-86D5-4513-B555-93B5097A9583</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>init_option</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>54C273FD-8151-4CBA-9770-5BF14B971744</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string>Generate random alfred themes from colour palettes created from http://colormind.io/</string>
+	<key>uidata</key>
+	<dict>
+		<key>05BB706B-E82B-441B-9F4C-006588E79773</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>2</integer>
+			<key>xpos</key>
+			<integer>360</integer>
+			<key>ypos</key>
+			<integer>310</integer>
+		</dict>
+		<key>1EE8FF6E-DB34-4AD5-81F2-0E634912A918</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>note</key>
+			<string>Saves the informed folder on workflow config file</string>
+			<key>xpos</key>
+			<integer>1150</integer>
+			<key>ypos</key>
+			<integer>305</integer>
+		</dict>
+		<key>480A2828-F18F-4282-A05B-C01DE1E84318</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>2</integer>
+			<key>xpos</key>
+			<integer>65</integer>
+			<key>ypos</key>
+			<integer>305</integer>
+		</dict>
+		<key>54C273FD-8151-4CBA-9770-5BF14B971744</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>2</integer>
+			<key>xpos</key>
+			<integer>260</integer>
+			<key>ypos</key>
+			<integer>335</integer>
+		</dict>
+		<key>55FFCDA3-5C68-4B07-B2FF-604F207723DF</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>5</integer>
+			<key>xpos</key>
+			<integer>725</integer>
+			<key>ypos</key>
+			<integer>215</integer>
+		</dict>
+		<key>7BC053B9-A346-41E9-A463-838A36B15765</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>5</integer>
+			<key>xpos</key>
+			<integer>1000</integer>
+			<key>ypos</key>
+			<integer>100</integer>
+		</dict>
+		<key>82DA38CC-5756-43BD-ADBE-1621AA9DC3EE</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>5</integer>
+			<key>xpos</key>
+			<integer>1150</integer>
+			<key>ypos</key>
+			<integer>100</integer>
+		</dict>
+		<key>A62CCC36-86D5-4513-B555-93B5097A9583</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>note</key>
+			<string>Overrides the DST_FOLDER variable</string>
+			<key>xpos</key>
+			<integer>1070</integer>
+			<key>ypos</key>
+			<integer>335</integer>
+		</dict>
+		<key>DC01678F-457A-41A6-ADFA-EBFC55C7AA24</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>5</integer>
+			<key>note</key>
+			<string>Load RECT_CONFIG_FILE from workflow config file.</string>
+			<key>xpos</key>
+			<integer>920</integer>
+			<key>ypos</key>
+			<integer>130</integer>
+		</dict>
+		<key>E3227028-A94F-4D95-8411-1E16C2293BD5</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>note</key>
+			<string>Asks for the destination foler</string>
+			<key>xpos</key>
+			<integer>905</integer>
+			<key>ypos</key>
+			<integer>305</integer>
+		</dict>
+		<key>F2B42809-A01D-46E2-8DB9-3D9E181BAAE0</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1300</integer>
+			<key>ypos</key>
+			<integer>335</integer>
+		</dict>
+		<key>FB7B49EB-9DC8-4CF8-9502-17566C1B97CA</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>5</integer>
+			<key>note</key>
+			<string>Read config file to get destination folder</string>
+			<key>xpos</key>
+			<integer>555</integer>
+			<key>ypos</key>
+			<integer>195</integer>
+		</dict>
+	</dict>
+	<key>variablesdontexport</key>
+	<array/>
+	<key>version</key>
+	<string>1.0.0</string>
+	<key>webaddress</key>
+	<string>https://github.com/gohoyer</string>
+</dict>
+</plist>
